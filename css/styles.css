@@ -1,0 +1,21 @@
+body {
+  background-color: lightyellow;
+}
+
+#initially-showing {
+  display:block;
+}
+
+#initially-hidden {
+  display: none;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
