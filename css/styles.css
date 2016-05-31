@@ -2,16 +2,15 @@ body {
   background-color: lightyellow;
 }
 
-#initially-showing {
+#initially-showing1, #initially-showing2 {
   display:block;
 }
 
-#initially-hidden {
+#initially-hidden1, #initially-hidden2 {
   display: none;
 }
 
-
-.clickable {
+.clickable1, .clickable2 {
   cursor: pointer;
   color: #0088cc;
 }
